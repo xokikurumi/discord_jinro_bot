@@ -17,7 +17,7 @@ import net.dv8tion.jda.api.requests.GatewayIntent;
 public class GradleMain extends ListenerAdapter implements EventListener{
 	
 	private static JDA jda;
-	private static String TOKEN = "MTA2NjM0NjY4NjEyNzAyNjIzNg.G5EJB6.vpH_1fDY4j1e8VK2U5KdIVm1_-0D4Zck8VpX4U";
+	private static String TOKEN = "TOKEN";
 	
 	public static void main(String[] args) throws InterruptedException {
 		System.out.println("Discord BOT.");
